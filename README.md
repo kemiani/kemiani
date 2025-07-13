@@ -4,7 +4,7 @@
 
 ## Desarrollador Web3 e IA | Visión por Computadora | Optimización de Infraestructura
 
-- ⚡️ Desarrollador autodidacta con +1 años de experiencia en IA, visión artificial y blockchain.
+- ⚡️ Desarrollador autodidacta con +2 años de experiencia en IA, visión artificial y blockchain.
 - 🛠️ Creo soluciones completas: desde smart contracts y UIs en React, hasta modelos de detección con YOLO.
 - 📍 Apunto a roles técnicos donde pueda combinar IA, automatización y Web3.
 
